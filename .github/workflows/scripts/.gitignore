@@ -1,5 +1,0 @@
-.env
-node_modules/
-reports/*.pdf
-.DS_Store
-*.log
